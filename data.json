@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Delux Feast",
+		"ingredients": "Beef pepperoni, Italian sausage, Green peppers, mushrooms, onions",
+		"price": 30,
+		"id":1
+	},
+	{
+		"name": "BBQ Feast",
+		"ingredients": "Marinated Chicken, BBQ Sauce with Onions",
+		"price": 50,
+		"id":2
+	},
+	{
+		"name": "Hot & Spicy Feast",
+		"ingredients": "Beef, onions, black olives and jalapenos",
+		"price": 35,
+		"id":3
+	},
+	{
+		"name": "Extravaganzza Feast",
+		"ingredients": "Beef pepperoni, Italian sausage, beef, onions, green peppers, mushrooms, black olives",
+		"price": 40,
+		"id":4
+	}
+]
